@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/card.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/dialog_add_request.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_account.xml" value="0.22" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_add_birthday.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_add_email_password.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_add_name.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_edit_account.xml" value="0.22" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_feed.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_filtered_tutors.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_pick_mode.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_search_subject.xml" value="0.11372847011144883" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_send_request.xml" value="0.11372847011144883" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/fragment_tutor_info.xml" value="0.22" />
+        <entry key="..\:/Users/alapa/Desktop/EduBuddyTutoringApp-main/app/src/main/res/layout/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
