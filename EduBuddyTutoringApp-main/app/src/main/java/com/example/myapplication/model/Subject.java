@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Handles subject and subject level inputs and
+   utilizes maps.
+*/
+
 package com.example.myapplication.model;
 
 import androidx.annotation.NonNull;

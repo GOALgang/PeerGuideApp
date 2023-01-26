@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   View of the Tutor info.
+*/
+
 package com.example.myapplication.view;
 
 import com.example.myapplication.model.Currency;

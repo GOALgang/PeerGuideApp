@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   This file denotes the methods used by the
+   fragment manager/transaction to instantiate fragments.
+*/
+
 package com.example.myapplication.controller;
 
 import androidx.annotation.NonNull;
@@ -25,7 +33,6 @@ public class EduBuddyFragFractory extends  FragmentFactory{
     public EduBuddyFragFractory(SetupActivity controller) { this.controller = controller;}
 
     /**
-     * Method used by fragment manager/transaction to instantiate fragments.
      * @param classLoader object to use to load fragment class
      * @param className name of fragment class to instantiate
      * @return instantiated fragment

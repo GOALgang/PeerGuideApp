@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Returns only users that fit the filter.
+*/
+
 package com.example.myapplication.model;
 
 import java.util.HashSet;

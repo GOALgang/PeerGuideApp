@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Subject filter test.
+*/
+
 package com.example.myapplication;
 
 import org.junit.jupiter.api.Test; // for the @Test annotation
@@ -15,11 +22,6 @@ import com.example.myapplication.model.UserLibrary;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Example local unit test, which will execute on the development machine (host).
- *
- * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
- */
 public class SubjectFilterTest {
 
     private UserLibrary ul = new UserLibrary();

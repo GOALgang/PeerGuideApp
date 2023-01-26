@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Utilizes firebase.
+*/
+
 package com.example.myapplication.persistence;
 
 import androidx.annotation.NonNull;

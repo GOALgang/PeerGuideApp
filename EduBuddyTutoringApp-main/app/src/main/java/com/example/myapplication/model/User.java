@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Handles the common user experience
+   between tutors and students.
+*/
+
 package com.example.myapplication.model;
 
 import androidx.annotation.NonNull;

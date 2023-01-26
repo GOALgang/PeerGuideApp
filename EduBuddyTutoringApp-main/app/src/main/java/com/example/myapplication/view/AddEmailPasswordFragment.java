@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Email password fragment is created.
+*/
+
 package com.example.myapplication.view;
 
 import android.os.Bundle;

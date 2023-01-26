@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   This file controls "set-up activity" and various
+   initiating processes to prepare the app.
+*/
+
 package com.example.myapplication.controller;
 
 import androidx.annotation.NonNull;

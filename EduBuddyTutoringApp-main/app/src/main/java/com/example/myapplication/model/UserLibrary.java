@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   UserLibrary is handled through HashSets in
+   this file of code.
+*/
+
 package com.example.myapplication.model;
 
 import android.provider.ContactsContract;

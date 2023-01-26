@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Updates profile when edit profile
+   function is used.
+*/
+
 package com.example.myapplication.view;
 /**
  * An interface specifying methods for editing user profile functionality

@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Profile fragment.
+*/
+
 package com.example.myapplication.view;
 
 import android.os.Bundle;

@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Input for the email and password.
+*/
+
 package com.example.myapplication.view;
 
 import com.example.myapplication.model.User;

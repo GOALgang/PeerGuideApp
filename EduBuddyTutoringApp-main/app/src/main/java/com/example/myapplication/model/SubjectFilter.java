@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Applies a subject filter utilizing hashset.
+*/
+
 package com.example.myapplication.model;
 
 import java.io.Serializable;

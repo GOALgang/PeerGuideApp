@@ -1,3 +1,11 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Interface that code interested in receiving
+   ledger data must implement.
+*/
+
 package com.example.myapplication.persistence;
 
 import androidx.annotation.NonNull;
@@ -8,9 +16,6 @@ import com.example.myapplication.model.User;
 
 public interface IPersistenceFacade {
 
-    /**
-     * Interface that code interested in receiving ledger data must implement.
-     */
     interface DataListener<T>{
         void onDataReceived(@NonNull T data);
         void onNoDataFound();

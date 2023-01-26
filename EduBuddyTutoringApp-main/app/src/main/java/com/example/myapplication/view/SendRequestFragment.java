@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Send request fragment.
+*/
+
 package com.example.myapplication.view;
 
 import android.app.AlertDialog;

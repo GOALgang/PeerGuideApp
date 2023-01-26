@@ -1,3 +1,12 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   Handles variables, methods, and other
+   related functions for users that choose
+   to be tutors in the app.
+*/
+
 package com.example.myapplication.model;
 
 import androidx.annotation.NonNull;

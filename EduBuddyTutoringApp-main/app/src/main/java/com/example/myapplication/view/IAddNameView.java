@@ -1,3 +1,10 @@
+/*
+   Pranav Alaparthi, Pavan Vemparala
+   January 24, 2023
+
+   User input for first and last name.
+*/
+
 package com.example.myapplication.view;
 /**
  * An interface asking for user's input: first name and last name
